@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siyovush-bek
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning algorithgms
+- 🌱 I’m currently learning algorithms
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me : siyovusht@gmail.com
 
